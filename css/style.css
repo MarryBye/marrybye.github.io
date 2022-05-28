@@ -1,13 +1,13 @@
 body {
     
-    /* background: rgb(32, 34, 37) url(../img/thumb-1920-909912.png); */
+    background: rgb(32, 34, 37) url(../img/thumb-1920-909912.png);
     font-family: 'Montserrat', sans-serif;
 
 }
 
 header {
 
-    background: url(../img/H0QkD.gif), url(../img/blur.png);
+    /* background: url(../img/H0QkD.gif), url(../img/blur.png);
     background-size: 100%;
 
     margin-top: 25px;
@@ -19,7 +19,7 @@ header {
     line-height: 64px;
     width: 50%;
 
-    border-radius: 8px;
+    border-radius: 8px; */
 
 }
 
