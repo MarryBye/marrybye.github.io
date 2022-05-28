@@ -8,6 +8,9 @@ body {
 header {
 
     /* background: url(../img/H0QkD.gif), url(../img/blur.png);
+    background-size: 100%; */
+
+    background: #c7b39b00 url(../img/blur.png);
     background-size: 100%;
 
     margin-top: 25px;
@@ -19,7 +22,7 @@ header {
     line-height: 64px;
     width: 50%;
 
-    border-radius: 8px; */
+    border-radius: 8px;
 
 }
 
