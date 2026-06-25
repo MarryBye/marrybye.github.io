@@ -2,13 +2,13 @@
   "name": "marrybye-portfolio",
   "version": "1.0.0",
   "description": "<!--\r **MarryBye/marrybye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
-  "homepage": "https://github.com/MarryBye/marrybye#readme",
+  "homepage": "https://marrybye.github.io/",
   "bugs": {
-    "url": "https://github.com/MarryBye/marrybye/issues"
+    "url": "https://github.com/MarryBye/marrybye.github.io/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MarryBye/marrybye.git"
+    "url": "git+https://github.com/MarryBye/marrybye.github.io.git"
   },
   "license": "ISC",
   "author": "",
