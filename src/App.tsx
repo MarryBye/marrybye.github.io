@@ -6,12 +6,12 @@ import { HomePage, AboutPage } from '@/pages';
 const AppPortfolio = () => {
     return (
         <React.StrictMode>
-            <HashRouter>
+            <BrowserRouter>
                 <Routes>
                     <Route path='/' element={<HomePage />} />
                     <Route path='/about' element={<AboutPage />} />
                 </Routes>
-            </HashRouter>
+            </BrowserRouter>
         </React.StrictMode>
     );
 }
