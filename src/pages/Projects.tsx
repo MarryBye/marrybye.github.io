@@ -1,10 +1,10 @@
 import { Link } from "react-router";
 import { BaseLayout } from "@/components";
 
-export const AboutPage = () => {
+export const ProjectsPage = () => {
     return (
         <BaseLayout>
-            <p>Hello about!</p>
+            <p>Hello projects!</p>
         </BaseLayout>
     )
 }

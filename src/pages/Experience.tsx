@@ -1,10 +1,10 @@
 import { Link } from "react-router";
 import { BaseLayout } from "@/components";
 
-export const AboutPage = () => {
+export const ExperiencePage = () => {
     return (
         <BaseLayout>
-            <p>Hello about!</p>
+            <p>Hello experience!</p>
         </BaseLayout>
     )
 }
