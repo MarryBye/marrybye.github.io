@@ -56,25 +56,25 @@ export const HomePage = () => {
                         <Separator className="my-6" />
                         <div className="flex gap-3">
                             <TechnologyTooltip
-                                src="/public/python.svg"
+                                src="/python.svg"
                                 alt="Python"
                                 className={"w-16 h-16"}
                                 content="Backend development with FastAPI and Django. Used for production-ready APIs and complex logic."
                             />
                             <TechnologyTooltip
-                                src="/public/react.svg"
+                                src="/react.svg"
                                 alt="React"
                                 className={"w-16 h-16"}
                                 content="Frontend development with React, TypeScript, and Vite. Building responsive, component-driven interfaces."
                             />
                             <TechnologyTooltip
-                                src="/public/sql.svg"
+                                src="/sql.svg"
                                 alt="SQL"
                                 className={"w-16 h-16"}
                                 content="Expertise in SQLAlchemy query builders, PostgreSQL for production, and SQLite for local environments."
                             />
                             <TechnologyTooltip
-                                src="/public/typescript.svg"
+                                src="/typescript.svg"
                                 alt="TypeScript"
                                 className={"w-16 h-16"}
                                 content="Type-safe development for both frontend applications and backend service architectures."
@@ -89,9 +89,9 @@ export const HomePage = () => {
                         </div>
                         <Separator className="my-6" />
                         <div className="flex flex-row gap-3">
-                            <a href="https://github.com/MarryBye"><img src="public/github.svg" alt="github" className={"w-8 h-8"} /></a>
-                            <a href="https://www.linkedin.com/in/lukianov-viktor/"><img src="public/linkedin.svg" alt="linkedin" className={"w-8 h-8"} /></a>
-                            <a href="tg://resolve?domain=viktorlukianov"><img src="public/telegram.svg" alt="telegram" className={"w-8 h-8"} /></a>
+                            <a href="https://github.com/MarryBye"><img src="/github.svg" alt="github" className={"w-8 h-8"} /></a>
+                            <a href="https://www.linkedin.com/in/lukianov-viktor/"><img src="/linkedin.svg" alt="linkedin" className={"w-8 h-8"} /></a>
+                            <a href="tg://resolve?domain=viktorlukianov"><img src="/telegram.svg" alt="telegram" className={"w-8 h-8"} /></a>
                         </div>
                     </HollowContainer>
                 </div>
