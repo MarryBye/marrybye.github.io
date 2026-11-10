@@ -24,8 +24,8 @@ The portfolio presents Viktor's real production and open-source systems:
 | Project | Domain | Core Technologies | Live Repository |
 |---|---|---|---|
 | **BizX Platform** | Enterprise B2B SaaS Monorepo | TypeScript, NestJS 11, Next.js 15, React 19, Expo SDK 52, Drizzle ORM, Redis, BullMQ, Docker | [MarryBye/bizx-platform](https://github.com/MarryBye/bizx-platform) |
-| **Taxi Dispatch Platform** | Full-Stack Ride Hailing | Python, FastAPI, PostgreSQL, PL/pgSQL (roles, triggers, views), React 18, Vite, Docker | [MarryBye/taxi-dispatch-platform](https://github.com/MarryBye/taxi-dispatch-platform) |
-| **Taxi CRM** | Fleet & Order Management | TypeScript, React, TanStack Query/Router, Express, TypeORM, Playwright, Storybook, Docker | [MarryBye/taxi-crm](https://github.com/MarryBye/taxi-crm) |
+| **Taxi Service** | Full-Stack Ride Hailing | Python, FastAPI, PostgreSQL, PL/pgSQL (roles, triggers, views), React 18, Vite, Docker | [MarryBye/taxi-service](https://github.com/MarryBye/taxi-service) |
+| **Easy CRM** | Fleet & Order Management | TypeScript, React, TanStack Query/Router, Express, TypeORM, Playwright, Storybook, Docker | [MarryBye/taxi-crm](https://github.com/MarryBye/taxi-crm) |
 | **Donor Center Telegram Bot** | Clinical Healthcare Bot | Python, Aiogram 3, PostgreSQL, FSM, JSON i18n (6 languages), Docker | [MarryBye/donor-center-telegram-bot](https://github.com/MarryBye/donor-center-telegram-bot) |
 | **Coderator** | Multimodal AI Assistant | Python, Discord.py, Google Gemini API, SQLAlchemy, SQLite, Docker | [MarryBye/coderator-discord-bot](https://github.com/MarryBye/coderator-discord-bot) |
 | **SUITT Schedule Bot** | Timetable & AI Notes | Python, Aiogram, Google Gemini API, SQLite, Docker | [MarryBye/suitt-schedule-bot](https://github.com/MarryBye/suitt-schedule-bot) |
