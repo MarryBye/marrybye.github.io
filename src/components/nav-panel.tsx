@@ -8,8 +8,20 @@ import {
     NavigationMenuTrigger,
 } from "@/components/ui/navigation-menu"
 
+type NavItem =
+    | {
+          type: "link";
+          to: string;
+          title: string;
+      }
+    | {
+          type: "dropdown";
+          trigger: string;
+          links: { to: string; title: string }[];
+      };
+
 export const NavPanel = () => {
-    const navPanelMapping = [
+    const navPanelMapping: NavItem[] = [
         {
             "type": "link",
             "to": "/",

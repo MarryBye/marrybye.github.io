@@ -8,13 +8,17 @@ import {
     TooltipTrigger,
 } from "@/components/ui/tooltip";
 
+interface TechnologyTooltipProps extends React.ImgHTMLAttributes<HTMLImageElement> {
+    content: string;
+}
+
 const TechnologyTooltip = (
     {
         src,
         content,
         alt,
         ...props
-    }: React.HTMLAttributes<HTMLImageElement>
+    }: TechnologyTooltipProps
 ) => {
     return (
         <Tooltip>
