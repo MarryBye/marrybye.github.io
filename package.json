@@ -1,7 +1,7 @@
 {
   "name": "marrybye-portfolio",
   "version": "1.0.0",
-  "description": "<!--\r **MarryBye/marrybye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "description": "Personal portfolio website of Viktor Lukianov, Full-Stack Software Engineer (Python / TypeScript).",
   "homepage": "https://marrybye.github.io/",
   "bugs": {
     "url": "https://github.com/MarryBye/marrybye.github.io/issues"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/MarryBye/marrybye.github.io.git"
   },
   "license": "ISC",
-  "author": "",
+  "author": "Viktor Lukianov <vlukianov04@gmail.com>",
   "type": "module",
   "scripts": {
     "dev": "vite",
